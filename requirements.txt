@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+xgboost
+plotly
+streamlit
+sqlalchemy
+psycopg[binary]
+jupyter
+ipykernel
+ucimlrepo
+joblib
+python-dotenv
